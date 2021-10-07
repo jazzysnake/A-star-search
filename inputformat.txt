@@ -1,0 +1,12 @@
+INPUT
+11 (points)
+200 (nodes)
+300 (edges)
+
+<11 sor egesz szam par, kiindulas	cel>(point a, point b)
+
+<200 sor egesz szam par, szelesseg	hosszusag>(coords)
+
+<300 sor egesz szam par, connectednode1	connectednode2>(edges)
+OUTPUT
+<p db double(2 tized pontosan) tabbal elvalsztva, uthossz a point a, point b kozott>(shortest path lengths)
