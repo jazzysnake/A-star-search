@@ -12,4 +12,4 @@ I threw together a quick graphical interface that displays the algorithm at work
 * Green - Start and Goal nodes
 * Blue - Nodes that are part of the shortest path found by the algo
 * Pink - Visited nodes
-* Red - Unvisiited nodes
+* Red - Unvisited nodes
